@@ -1,0 +1,14 @@
+.venv/
+.work/
+__pycache__/
+*.pyc
+build/
+dist/
+release/
+runtime/
+vendor/openvr/*.dll
+vendor/openvr/*.lib
+models/*.onnx
+*.spec
+*.log
+premium-audit.json
